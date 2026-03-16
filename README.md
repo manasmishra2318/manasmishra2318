@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Manas Mishra 👋
 
-<!--
-**manasmishra2318/manasmishra2318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML enthusiast passionate about building intelligent systems using Machine Learning and Deep Learning. I enjoy solving real-world problems through data, algorithms, and AI-driven applications.
 
-Here are some ideas to get you started:
+## Domains
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Artificial Intelligence • Machine Learning • Deep Learning • Data Science • AI in Sports Analytics
+
+## Skills
+
+Python • C++ • Data Structures & Algorithms • Machine Learning
+
+## Tools
+
+NumPy • Pandas • Scikit-learn • Jupyter Notebook • Git • GitHub • VS Code
+
+## Current Focus
+
+Building AI/ML projects and improving my skills in Deep Learning and advanced machine learning.
